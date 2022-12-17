@@ -17,11 +17,11 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Vet Clinic] <a name="about-project"></a>
+# 📖 Vet Clinic <a name="about-project"></a>
 
 > An database project on PostgreSQL. 
 
-**[Vet Clinic]** A database project that involves using PostgreSQL. In this project, I used a relational database to create the data structure for a vet clinic.
+**Vet Clinic** is a database project that involves using PostgreSQL. In this project, I used a relational database to create the data structure for a vet clinic.
 
 
 
