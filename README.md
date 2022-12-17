@@ -4,7 +4,6 @@
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
-    - [Key Features](#key-features)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -22,7 +21,7 @@
 
 > An database project on PostgreSQL. 
 
-**[Vet Clinic]** A database project that involves using PostgreSQL. In this project, I used a relational database to create the data structure for a vet clinic
+**[Vet Clinic]** A database project that involves using PostgreSQL. In this project, I used a relational database to create the data structure for a vet clinic.
 
 
 
@@ -43,15 +42,6 @@
    </ul> 
  </details> 
   
- <!-- Features --> 
-  
-### Key Features <a name="key-features"></a> 
-  
- - An Animal table containing the following columns: Id, Name, Date of birth, Escape attempts, Neutered, Weight
-  
- <p align="right">(<a href="#readme-top">back to top</a>)</p> 
-
-<!-- Features -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -77,11 +67,11 @@ In order to run this project you need:
 ### Setup
 
 - Open PSQL 
-- create a new database using CREATE DATABASE Vet Clinic
+- Create a new database using CREATE DATABASE Vet Clinic
 
 ### Usage
 
-- connect to database using the command \c Vet Clinic
+- Connect to database using the command \c Vet Clinic
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -92,10 +82,10 @@ In order to run this project you need:
 
 > Mention all of the collaborators of this project.
 
-👤 **Stanley Nnamani AKA StarMindz**
+👤 **Jules Edozie**
 
-- GitHub: [@Starmindz](https://github.com/StarMindz)
-- LinkedIn: [Stanley Nnamani](https://www.linkedin.com/in/stanley-nnamani/)
+- GitHub: [@julzedz](https://github.com/julzedz)
+- LinkedIn: [Jules Edozie](https://www.linkedin.com/in/julesedozie/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -121,7 +111,7 @@ If you like this project, please give it a star and also follow me on GitHub for
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-- Thumb ups to all the Naija Afrobeat Musicians whose beautiful music made building this project more fun
+- Thank you Microverse!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
