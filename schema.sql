@@ -2,7 +2,7 @@
 
 CREATE TABLE animals (
     name varchar(100)
-    id INT,
+    id int NOT NULL IDENTITY(1,1),
     date_of_birth DATE,
     escape_attempts INT,
     neutered BOOLEAN,
