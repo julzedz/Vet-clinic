@@ -19,9 +19,9 @@
 
 # 📖 Vet Clinic <a name="about-project"></a>
 
-> An database project on PostgreSQL. 
+> A database project on PostgreSQL. 
 
-**Vet Clinic** is a database project that involves using PostgreSQL. In this project, I used a relational database to create the data structure for a vet clinic.
+**Vet Clinic** is a database project that uses PostgreSQL. In this project, I used a relational database to create the data structure for a vet clinic.
 
 
 
@@ -121,7 +121,6 @@ If you like this project, please give it a star and also follow me on GitHub for
 
 This project is [MIT](./MIT.md) licensed.
 
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
