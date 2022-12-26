@@ -119,7 +119,7 @@ If you like this project, please give it a star and also follow me on GitHub for
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./MIT.md) licensed.
+This project is [MIT](https://github.com/julzedz/Vet-clinic/blob/join-table/LICENSE) licensed.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
